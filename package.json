@@ -1,7 +1,7 @@
 {
-  "name": "demo-app",
+  "name": "mpdf_phpmailer",
   "version": "1.0.0",
-  "description": "Aplicacion MVC demo",
+  "description": "Envio de correo con php mailer y incluyendo mpdf",
   "main": "index.js",
   "scripts": {
     "build": "webpack",

@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "mpdf/phpmailer",
+    "description": "Proyecto para enviar un correo incluyendo archivo PDF",
     "type": "project",
     "config": {
         "platform-check": false
